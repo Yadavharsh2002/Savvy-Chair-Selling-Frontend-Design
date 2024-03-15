@@ -6,6 +6,8 @@ Contributions 🤝 Contributions are welcome!
 Fork this repository and create a pull request to contribute to the development of ExploreBound. 
 Report issues or suggest features using the Issues tab.
 
+PREVIEW OF MY PROJECT : https://yadavharsh2002.github.io/Savvy-Chair-Selling-Frontend-Design/
+
 Join the Adventure! 🌊 Connect with like-minded thrill-seekers on our platform. 
 Follow me on X and Instagram for updates and exciting announcements.
 (gmail : harshyadavcode@gmail.com)
